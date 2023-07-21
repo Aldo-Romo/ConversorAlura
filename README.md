@@ -25,7 +25,15 @@ seleccionar mas de una combinacion de conversiones, esto se ingresa a un array y
 un ciclo se consultan los arrays y se va calulando cada conversion y se agrega a un
 elemento tabla para mostrar la informacion.
 
-Se trata de implementar todo lo visto en los cursos de Alura para ponerlos en practica
+
+Se trato de implementar todo lo visto en los cursos de Alura para ponerlos en practica
 y facilitar los siguientes Challenges que vienen.
 
+https://github.com/Aldo-Romo/ConversorAlura/assets/130927620/8ff9b44a-9263-4443-b062-5b75ed0f5e83
+
+
+
 Aldo Romo
+
+aqui dejo un video de su funcionamiento
+
